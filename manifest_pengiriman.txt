@@ -1,0 +1,18 @@
+========================================================================
+           MANIFES RESMI PENGIRIMAN BANTUAN LOGISTIK PENDIDIKAN 3T      
+                 PROGRAM PENGABDIAN MASYARAKAT INFORMATIKA UNS          
+========================================================================
+Waktu Pembuatan Dokumen : Manifes Otomatis Sistem Logistik
+Penanggung Jawab Lapangan: Ibrey Diba Tarigan (NIM: L0325027)
+------------------------------------------------------------------------
+NO    | KODE         | NAMA BARANG                | KATEGORI     | BERAT (KG)
+------------------------------------------------------------------------
+1     | EDX-LP01     | Perangkat Edge Node Mini   | Elektronik   |    18,50
+2     | EDX-BK02     | Buku Matematika Interaktif | Buku         |    24,20
+3     | EDX-SL03     | Panel Surya Portabel Posko | Elektronik   |    15,80
+========================================================================
+TOTAL BARANG TERDAFTAR : 3 Dus Bantuan
+TOTAL BERAT AKUMULASI  : 58,50 Kg
+LABEL ARMADA ANGKUT    : Truk Ekspedisi
+STATUS VERIFIKASI      : SIAP DIBERANGKATKAN KE DAERAH 3T
+========================================================================
